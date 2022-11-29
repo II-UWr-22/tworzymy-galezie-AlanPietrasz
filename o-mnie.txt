@@ -3,8 +3,5 @@ Alan Pietrasz
 git
 
 Delta
-<<<<<<< HEAD
 
 zielony
-=======
->>>>>>> tag1
